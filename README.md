@@ -9,6 +9,8 @@ Añadimos el plugin de cordova para acceder a los permisos de android:
 cordova plugin add cordova-plugin-android-permissions
 ```
 
+Recuerda tener en el Manifest de Android de tu proyecto principal los permisos que vayas a utilizar.
+
 #### API
 
 ```
